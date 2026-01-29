@@ -4,22 +4,22 @@ A production-grade backtesting framework using PySpark to evaluate trading strat
 
 ![Trading Strategy Analysis](3D%20visualization.png)
 
-## 🎯 Project Overview
+##  Project Overview
 
 Built a **distributed backtesting engine** that processes **12,300 backtests** across **100 stocks**, analyzing **303,600 price records** spanning 10 years of real market data (2014-2026) with production-grade monitoring and data quality validation.
 
 ### Key Results
-- 📊 **12,300** backtests completed
-- 🧪 **123** trading strategies tested (MA, RSI, MACD, Mean Reversion)
-- 💹 **100** stocks analyzed (S&P 500 constituents)
-- 📈 **303,600** price records processed
-- 🏆 **Best Sharpe:** 0.274 (RSI strategy)
-- 🎯 **Best Return:** 38.5%
-- ⚡ **Throughput:** 240 backtests/second
-- 💻 **Platform:** Kaggle (30GB RAM, FREE)
-- ✅ **Data Quality:** 100% validation pass rate
+-  **12,300** backtests completed
+-  **123** trading strategies tested (MA, RSI, MACD, Mean Reversion)
+-  **100** stocks analyzed (S&P 500 constituents)
+-  **303,600** price records processed
+-  **Best Sharpe:** 0.274 (RSI strategy)
+-  **Best Return:** 38.5%
+-  **Throughput:** 240 backtests/second
+-  **Platform:** Kaggle (30GB RAM, FREE)
+-  **Data Quality:** 100% validation pass rate
 
-## 📈 Visualizations
+##  Visualizations
 
 ### Complete Analysis Dashboard
 ![Dashboard](Top%2015%20trading%20strategies.png)
@@ -41,7 +41,7 @@ Built a **distributed backtesting engine** that processes **12,300 backtests** a
 
 *Interactive table showing top 15 performing strategies with complete metrics*
 
-## 🏆 Top 5 Strategies
+##  Top 5 Strategies
 
 | Rank | Type | Sharpe | Return | Drawdown | Win Rate | Stocks Tested |
 |------|------|--------|--------|----------|----------|---------------|
@@ -53,7 +53,7 @@ Built a **distributed backtesting engine** that processes **12,300 backtests** a
 
 **Key Finding:** RSI mean-reversion strategies outperformed trend-following approaches during the volatile 2014-2026 period (COVID crash, bull/bear markets).
 
-## 🔍 Production Features
+##  Production Features
 
 ### Data Quality Monitoring
 - ✅ **5 automated validation checks** (100% pass rate)
@@ -77,7 +77,7 @@ Built a **distributed backtesting engine** that processes **12,300 backtests** a
 - ✅ **Interactive visualizations** with Plotly
 - ✅ **Scalable architecture** (designed for AWS EMR)
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Core Framework:**
 - PySpark 3.5.0 (distributed computing)
@@ -98,7 +98,7 @@ Built a **distributed backtesting engine** that processes **12,300 backtests** a
 - Kaggle Notebooks (30GB RAM)
 - Designed for AWS EMR deployment
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Run on Kaggle (Recommended - 30GB RAM)
 1. Open [`algorithmic-backtesting.ipynb`](algorithmic-backtesting.ipynb) on Kaggle
@@ -126,7 +126,7 @@ jupyter notebook
 # Open algorithmic-backtesting.ipynb
 ```
 
-## 💡 Key Features
+##  Key Features
 
 ### Scale
 - 123 trading strategies (MA, RSI, MACD, Mean Reversion)
@@ -144,7 +144,7 @@ jupyter notebook
 ### Key Insight
 RSI strategies dominated top 5, demonstrating mean-reversion effectiveness during 2014-2026's regime changes and volatile market conditions.
 
-## 🎓 What I Learned
+##  What I Learned
 
 - **Distributed Computing:** PySpark architecture, pandas UDFs, data partitioning strategies
 - **Quantitative Finance:** Sharpe ratio, Calmar ratio, maximum drawdown, win rate metrics
@@ -181,7 +181,7 @@ Interactive Dashboards (Plotly)
 - **Post-Processing:** Strategy analysis (type comparison, performance distribution)
 - **Visualization:** Real-time dashboards (quality scores, metrics, alerts)
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] Deploy to AWS EMR for 500+ stock scale
 - [ ] Add walk-forward analysis for robustness testing
@@ -191,7 +191,7 @@ Interactive Dashboards (Plotly)
 - [ ] Portfolio optimization (combining multiple strategies)
 - [ ] Automated strategy selection pipeline
 
-## 📂 Project Structure
+##  Project Structure
 ```
 algorithmic-trading-backtest/
 ├── algorithmic-backtesting.ipynb              # Main Kaggle notebook (100 stocks)
@@ -204,7 +204,7 @@ algorithmic-trading-backtest/
 └── monitoring_dashboard.png                   # Production monitoring (NEW!)
 ```
 
-## 🎯 Key Metrics
+##  Key Metrics
 
 **Scale Metrics:**
 - Strategies tested: 123
@@ -227,7 +227,7 @@ algorithmic-trading-backtest/
 - Price validity: ✅ Passed
 - OHLC logic: ✅ Validated
 
-## 💡 Technical Highlights
+##  Technical Highlights
 
 ### Distributed Computing
 - PySpark DataFrame operations
@@ -249,7 +249,7 @@ algorithmic-trading-backtest/
 - Quality scoring system
 - Interactive monitoring dashboards
 
-## 📫 Contact
+##  Contact
 
 **Het415**
 
