@@ -9,19 +9,6 @@
 - **Best Return:** 38.5%
 - **Tech:** PySpark, Plotly, Python
 
-## 🎯 Project Overview
-
-Built a distributed backtesting engine that processes **12,300 backtests** across **100 stocks**, analyzing **303,600 price records** spanning 10 years of real market data (2014-2026).
-
-### Key Results
-- 📊 **12,300** backtests completed
-- 🧪 **123** trading strategies tested
-- 💹 **100** stocks analyzed (S&P 500 constituents)
-- 📈 **303,600** price records processed
-- 🏆 **Best Sharpe:** 0.274 (RSI strategy)
-- 🎯 **Best Return:** 38.5%
-- 💻 **Platform:** Kaggle (30GB RAM, FREE)
-
 ## 📈 Visualizations
 
 ### Complete Analysis Dashboard
