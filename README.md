@@ -1,8 +1,13 @@
 # 📊 Distributed Algorithmic Trading Backtesting Engine
 
-A scalable backtesting framework using PySpark to evaluate trading strategies across 100 stocks.
+![Results](3D%20visualization.png)
 
-![Trading Strategy Analysis](3D%20visualization.png)
+## 🎯 Results
+- **12,300** backtests on **100 stocks**
+- **303,600** price records (2014-2026)
+- **Best Sharpe:** 0.274
+- **Best Return:** 38.5%
+- **Tech:** PySpark, Plotly, Python
 
 ## 🎯 Project Overview
 
